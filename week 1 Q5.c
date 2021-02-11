@@ -21,6 +21,22 @@ int main()
         case 'u';
         printf("IT IS A VOWEL");
         break;
+        case 'A';
+        printf("IT IS A VOWEL");
+        break;
+        case 'E';
+        printf("IT IS A VOWEL");
+        break;
+        case 'I';
+        printf("IT IS A VOWEL");
+        break;
+        case 'O';
+        printf("IT IS A VOWEL");
+        break;
+        case 'U';
+        printf("IT IS A VOWEL");
+        break;
+        
         default;
         printf("IT'S A CONSONANT");
 
